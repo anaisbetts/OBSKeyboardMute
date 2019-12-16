@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBSKeyboardMute", "src\\OBSKeyboardMute.csproj", "{31790ECA-E8C1-46F5-A5D8-26A06E9B4114}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B139D23B-EF5B-4D47-A7C0-8E3F63472FB2}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31790ECA-E8C1-46F5-A5D8-26A06E9B4114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31790ECA-E8C1-46F5-A5D8-26A06E9B4114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31790ECA-E8C1-46F5-A5D8-26A06E9B4114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31790ECA-E8C1-46F5-A5D8-26A06E9B4114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED01D603-64D9-4324-87FF-65B675A211E2}
+	EndGlobalSection
+EndGlobal
